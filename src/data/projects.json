@@ -1,0 +1,12 @@
+[
+    {
+      "title": "Weather App",
+      "description": "A Next.js app fetching live weather data.",
+      "url": "https://github.com/mygithub/weather-app"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "description": "Full-stack store with authentication and payments.",
+      "url": "https://github.com/mygithub/ecommerce-app"
+    }
+  ]
